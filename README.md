@@ -3,15 +3,15 @@ Primeiro repositório, curso de análise de dados.
 
 ## Conteúdo
 O que faremos hoje:
-1. Apresentar Git
-2. Criar repositório
-3. Experimentar com markdown
-4. Subir arquivos
+- [x] Apresentar Git
+- [x] Criar repositório
+- [x] Experimentar com markdown
+- [ ] Subir arquivos
 
 ## Sobre markdown
 Títulos, subtítulos etc são criados por cerquilha, ou jogo da velha (#)
 
-##Criando lista
+## Criando lista
 ### Listas numeradas
 Nesse caso, cada linha começa com número seguido de ponto (e.g. 1.)
 
